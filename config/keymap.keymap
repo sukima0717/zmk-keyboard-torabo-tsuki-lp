@@ -7,8 +7,8 @@
 #include <dt-bindings/zmk/pointing.h>
 
 &kscan0 {
-    debounce-press-ms = <150>;
-    debounce-release-ms = <150>;
+    debounce-press-ms = <20>;
+    debounce-release-ms = <20>;
 };
 
 / {
